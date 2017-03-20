@@ -1,0 +1,17 @@
+# site title
+title: Story of Linkgo
+
+# github user
+user: linkgo
+
+# issue repo
+repo: linkgo.github.io
+
+# multi-author
+authors:
+
+# per page
+per_page: 10
+
+#sandbox
+sandbox: false
